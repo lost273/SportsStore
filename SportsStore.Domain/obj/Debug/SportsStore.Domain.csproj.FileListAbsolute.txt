@@ -34,3 +34,8 @@ D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Web
 D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

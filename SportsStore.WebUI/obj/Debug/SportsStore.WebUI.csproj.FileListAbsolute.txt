@@ -148,3 +148,8 @@ D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
 D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
