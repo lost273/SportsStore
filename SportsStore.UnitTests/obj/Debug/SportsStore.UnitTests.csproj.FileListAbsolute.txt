@@ -3,7 +3,6 @@ D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitT
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\Castle.Core.dll
-D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\Newtonsoft.Json.dll
@@ -31,7 +30,9 @@ D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPag
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Optimization.xml
-D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll.config
+D:\prog\VSProj\GIT\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
