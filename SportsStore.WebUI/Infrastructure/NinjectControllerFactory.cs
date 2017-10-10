@@ -8,6 +8,7 @@ using SportsStore.Domain.Entities;
 using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Concrete;
 using Moq;
+using System.Configuration;
 
 namespace SportsStore.WebUI.Infrastructure {
     // user's factory of the controllers
@@ -23,6 +24,12 @@ namespace SportsStore.WebUI.Infrastructure {
         }
         private void AddBindings() {
             ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
+            EmailSettings emailSettings = new EmailSettings {
+                WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+            };
+            ninjectKernel.Bind<IOrderProcessor>()
+                .To<EmailOrderProcessor>()
+                .WithConstructorArgument("settings",emailSettings);
         }
     }
 }
