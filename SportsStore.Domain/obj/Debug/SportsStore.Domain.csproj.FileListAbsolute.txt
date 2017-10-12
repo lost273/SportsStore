@@ -39,3 +39,8 @@ D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 D:\prog\VSProj\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\programs\Projects\GIT\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

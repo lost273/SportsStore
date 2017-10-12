@@ -9,6 +9,8 @@ using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Concrete;
 using Moq;
 using System.Configuration;
+using SportsStore.WebUI.Infrastructure.Abstract;
+using SportsStore.WebUI.Infrastructure.Concrete;
 
 namespace SportsStore.WebUI.Infrastructure {
     // user's factory of the controllers
@@ -30,6 +32,7 @@ namespace SportsStore.WebUI.Infrastructure {
             ninjectKernel.Bind<IOrderProcessor>()
                 .To<EmailOrderProcessor>()
                 .WithConstructorArgument("settings",emailSettings);
+            ninjectKernel.Bind<IAuthProvider>().To<FormsAuthProvider>();
         }
     }
 }

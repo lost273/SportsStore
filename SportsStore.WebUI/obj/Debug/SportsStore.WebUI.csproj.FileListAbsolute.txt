@@ -153,3 +153,7 @@ D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.conf
 D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
 D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 D:\prog\VSProj\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\programs\Projects\GIT\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
